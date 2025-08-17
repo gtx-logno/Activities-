@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b417bf3b95d2fe3a",
+        "username": "Durjoy",
+        "password": "1000",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
